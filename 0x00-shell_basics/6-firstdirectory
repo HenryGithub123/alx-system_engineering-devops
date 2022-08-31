@@ -1,2 +1,1 @@
-#!/bin/bash
-mkdir tmp/ My_first_directory
+mkdir --parent --verbose tmp/My_first_directory
